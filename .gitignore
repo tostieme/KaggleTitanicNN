@@ -1,0 +1,6 @@
+# ignore all logs
+*.log
+
+# ignore file system stuff
+*.DS_STORE
+*.ds                  
